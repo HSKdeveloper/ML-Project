@@ -1,0 +1,6 @@
+2026-04-25 16:02:33,240:WARNING:c:\Users\96654\Desktop\2026\SDAIA-Bootcamp\ML-Project\mlProject\.venv\Lib\site-packages\scipy\__init__.py:145: UserWarning: A NumPy version >=1.21.6 and <1.28.0 is required for this version of SciPy (detected version 2.4.4)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2026-04-25 16:14:23,312:WARNING:c:\Users\96654\Desktop\2026\SDAIA-Bootcamp\ML-Project\mlProject\.venv\Lib\site-packages\scipy\__init__.py:145: UserWarning: A NumPy version >=1.21.6 and <1.28.0 is required for this version of SciPy (detected version 2.4.4)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
