@@ -1056,3 +1056,10 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 2026-04-25 16:57:16,843:INFO:Scoring test/hold-out set
 2026-04-25 16:57:17,573:INFO:Visual Rendered Successfully
 2026-04-25 16:57:17,788:INFO:plot_model() successfully completed......................................
+2026-04-25 17:03:15,724:INFO:Initializing predict_model()
+2026-04-25 17:03:15,724:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001F3E858D3D0>, estimator=LGBMRegressor(n_jobs=-1, random_state=123), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001F39E4E8360>)
+2026-04-25 17:03:15,724:INFO:Checking exceptions
+2026-04-25 17:03:15,724:INFO:Preloading libraries
+2026-04-25 17:03:16,096:WARNING:c:\Users\96654\Desktop\2026\SDAIA-Bootcamp\ML-Project\mlProject\.venv\Lib\site-packages\sklearn\metrics\_regression.py:483: FutureWarning: 'squared' is deprecated in version 1.4 and will be removed in 1.6. To calculate the root mean squared error, use the function'root_mean_squared_error'.
+  warnings.warn(
+
